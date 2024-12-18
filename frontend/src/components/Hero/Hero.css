@@ -1,0 +1,51 @@
+.hero-image img {
+  width: 98.9vw;
+  height: 88vh;
+  margin: 0px;
+  padding: 0px;
+  vertical-align: bottom;
+}
+
+.policybar-hero {
+  height: 15vh;
+  background: rgb(1, 103, 246);
+  display: flex;
+  justify-content: space-evenly;
+  width: 98.9vw;
+}
+.policybar-hero button {
+  background: rgb(1, 103, 246);
+  color: white;
+  border: 2px solid white;
+  margin: 20px;
+  width: 400px;
+  height: 50px;
+}
+.description-hero{
+    display: flex;
+    height: 150px;
+    background: lightgray;
+    padding: 20px 50px;
+    font-size: 21px;
+}
+
+.faculties-hero .heading h3{
+    display: flex;
+    justify-content: center;
+}
+
+.faculties-hero .heading p{
+    display: flex;
+    justify-content: center;
+}
+
+.faculties-hero .card{
+  display: flex;
+  gap: 20px;
+  padding: 10px 20px;
+  justify-content: space-evenly;
+}
+.faculties-hero .card img{
+  height: 300px;
+  width: 300px;
+}
