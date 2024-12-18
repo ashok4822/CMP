@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    background: rgb(134, 4, 4);
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    padding: 0 20px;
+    color: white;
+}
+
+.left-navbar{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.left-navbar img{
+    height: 100px;
+}
+
+.right-navbar{
+    display: flex;
+    gap: 20px;
+}
