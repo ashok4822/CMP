@@ -11,6 +11,7 @@
   background: rgb(1, 103, 246);
   display: flex;
   justify-content: space-evenly;
+  align-items: center;
   width: 98.9vw;
 }
 .policybar-hero button {
