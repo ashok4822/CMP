@@ -1,0 +1,19 @@
+.footer{
+    display: flex;
+    background: rgb(50, 50, 50);
+    color: white;
+    padding-left: 25vw;
+    gap: 27px;
+}
+.programs p{
+    margin: 0;
+}
+.programs hr{
+    margin-top: 5px;
+}
+.bottom{
+    display: flex;
+    background: black;
+    color: white;
+    justify-content: space-around;
+}
