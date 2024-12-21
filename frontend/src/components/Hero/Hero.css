@@ -1,3 +1,7 @@
+.hero {
+  margin-top: 82px;
+}
+
 .hero-image img {
   width: 98.9vw;
   height: 88vh;
@@ -22,31 +26,31 @@
   width: 400px;
   height: 50px;
 }
-.description-hero{
-    display: flex;
-    height: 150px;
-    background: lightgray;
-    padding: 20px 50px;
-    font-size: 21px;
+.description-hero {
+  display: flex;
+  height: 150px;
+  background: lightgray;
+  padding: 20px 50px;
+  font-size: 21px;
 }
 
-.faculties-hero .heading h3{
-    display: flex;
-    justify-content: center;
+.faculties-hero .heading h3 {
+  display: flex;
+  justify-content: center;
 }
 
-.faculties-hero .heading p{
-    display: flex;
-    justify-content: center;
+.faculties-hero .heading p {
+  display: flex;
+  justify-content: center;
 }
 
-.faculties-hero .card{
+.faculties-hero .card {
   display: flex;
   gap: 20px;
   padding: 10px 20px;
   justify-content: space-evenly;
 }
-.faculties-hero .card img{
+.faculties-hero .card img {
   height: 300px;
   width: 300px;
 }
